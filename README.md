@@ -21,4 +21,4 @@
 
 ## 预览
 
-<a href="https://zhazhjie.github.io/vue-components-demo/">Demo</a>
+<a href="https://zhazhjie.github.io/vue-components-demo/?id=el">Demo</a>
