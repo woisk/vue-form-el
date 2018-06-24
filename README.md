@@ -6,7 +6,7 @@
 
 ``` bash
 # v-model：绑定值，label：初始值，isDisable：是否禁用
-# checkbox多个复选框，绑定到同一个数组
+# checkbox多个复选框时，可以绑定到同一个数组
 
 <radio v-model='radio' label='1' :isDisable='true'>radio1</radio>
 
