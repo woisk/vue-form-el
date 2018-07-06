@@ -103,7 +103,7 @@ export default {
   .to-top{
     top: 0;
     margin-top: 0;
-    font-size: 0.14px;
+    font-size: 14px;
     color: #5b88ed;
     transition: all 0.2s linear;
   }
