@@ -1,6 +1,6 @@
 # vue-form-el
 
-> vue表单组件美化，包括radio、checkbox和swpier
+> vue表单组件美化，包括radio、checkbox、switch、select、input
 
 ## Build Setup
 
